@@ -1,4 +1,4 @@
-"Order.cs file"
+"Order.cs file":
 - Denne fil definere en klasse, som beskriver en ordre I invetory system
 - Det er et eksempel på en ordre når en kunde angiver hvad kunden vil have:
 
@@ -17,7 +17,7 @@ string: bruges til tekst, fx. Productname, status
 
 
 
-"InventorySystem.cs file"
+"InventorySystem.cs file":
 - Denne fil styrer inventorysystem (lagerstyrringen)
 - Der vises hvilken ordre der venter på at blive behandlet (Queued) og hvilken ordre der er blevet behandlet (processed)
 
