@@ -16,3 +16,7 @@ Order.cs:
 "public string Status { get; set; }" - Dette viser hvor ordren befinder sig
 Herunder kan der være "Queued" som betyder at ordren stadig venter på at blive behandlet og "Processed" betyder at ordren er færdigbehandlet
 
+Der er også blevet brugt "int" og "string"
+
+Int: bruges til heltal, fx. orderId, Quantity
+string: bruges til tekst, fx. Productname, status
