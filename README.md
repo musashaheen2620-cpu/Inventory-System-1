@@ -1,4 +1,4 @@
-"Order.cs file":
+"Order - Kkasse"
 - Denne fil definere en klasse, som beskriver en ordre I invetory system
 - Det er et eksempel på en ordre når en kunde angiver hvad kunden vil have:
 
